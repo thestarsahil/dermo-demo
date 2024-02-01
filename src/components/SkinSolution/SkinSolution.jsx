@@ -1,5 +1,4 @@
 import React from "react";
-import { HiOutlineArrowNarrowRight } from "react-icons/hi";
 
 export const SkinSolution = () => {
   return (
